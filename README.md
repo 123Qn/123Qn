@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @123Qn!
+# 👋 Hi, I'm Quan
 
 - 🌍 **Interested in**: Travelling and, of course, coding! 😁
 - 📚 **Currently learning**: Software Development
